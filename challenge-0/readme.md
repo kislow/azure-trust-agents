@@ -61,7 +61,7 @@ After deploying the resources, you will need to configure the environment variab
 
 **Then run the get-keys script with your resource group name:**
 ```bash
-cd challenge-0 && ./get-keys.sh --resource-group YOUR_RESOURCE_GROUP_NAME
+cd challenge-0 && ./get-keys.sh --resource-group resourcegroup07
 ```
 
 Replace `YOUR_RESOURCE_GROUP_NAME` with the actual name of the resource group created on step 1.3.
